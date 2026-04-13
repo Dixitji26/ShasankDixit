@@ -50,9 +50,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (add link)
-* 📧 Email: (add email)
-
+* 💼 LinkedIn: linkedin.com/in/shasank-dixit-250851212
+* 📧 Email: shasankdixit1.0@gmail.com
 ---
 
 ⭐ *Always building, always learning.*
