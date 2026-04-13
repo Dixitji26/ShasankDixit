@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Shasank Dixit
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Graph+Neural+Networks;Reinforcement+Learning;AI+Systems)
 
 🚀 **AI Research Enthusiast | Graph Neural Networks | Reinforcement Learning**
 
@@ -18,6 +19,9 @@
 * **Frameworks:** PyTorch, DGL
 * **Domains:** GNNs, Reinforcement Learning, Deep Learning
 * **Tools:** Git, Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
